@@ -5,9 +5,9 @@
 % menos.
 % Datos de los nodos (energía residual, calidad del enlace, distancia a BS, mensajes enviados y correctamente recibidos)
 nodos = [
-    0.7, 0.85, 15, 100, 80; % Nodo 1 (80 de 100 mensajes correctos, ajustado)
+    0.7, 0.85, 15, 100, 80; % Nodo 1 (80 de 100 mensajes correctos)
     0.7, 0.85, 12, 150, 120; % Nodo 2 (120 de 150 mensajes correctos)
-    0.95, 0.95, 10, 200, 195; % Nodo 3 (195 de 200 mensajes correctos, ajustado)
+    0.95, 0.95, 10, 200, 195; % Nodo 3 (195 de 200 mensajes correctos)
     0.6, 0.95, 10, 120, 90;  % Nodo 4 (90 de 120 mensajes correctos)
 ];
 
